@@ -17,8 +17,9 @@ Compile the program
 Open terminal:javac StudentManagementSystem.java
 Run the program:java StudentManagementSystem
 
-Author
-Tarang Katiyar
-
+Screenshot
 <img width="1920" height="1080" alt="Screenshot (268)" src="https://github.com/user-attachments/assets/9e307a04-7371-4d10-8967-d676f4199c32" />
 <img width="1920" height="1080" alt="Screenshot (269)" src="https://github.com/user-attachments/assets/d5f2d360-c0db-4812-80f9-fd6a0094df22" />
+
+Author
+Tarang Katiyar
